@@ -1,1 +1,1 @@
-# Gradient-Descent-Alogrithm
+#  Implementation of Gradient-Descent-Alogrithm
